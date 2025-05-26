@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  font-size: 3vw;
+  font-family: Arial, sans-serif;
+  line-height: 1.5;
+}
+
+header {
+  background-color: #4db6ac;
+  color: white;
+  text-align: center;
+  padding: 1vh 1vw;
+  border-radius: 1vh;
+  margin-bottom: 1vh;
+}
+
+main {
+  padding: 2vw;
+}
+
+footer {
+  background-color: #eeeeee;
+  text-align: center;
+  padding-top: 1vw;
+  margin-top: 1vw;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 1vw;
+}
